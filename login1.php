@@ -68,6 +68,7 @@ if(mysqli_num_rows($result)==1 and !empty($password)){
         $_SESSION['roll_no'] = $row['roll_no'];
         $_SESSION['aadhar'] = $row['aadhar'];
         $_SESSION['pan'] = $row['pan'];
+        $_SESSION['id'] = $row['id'];
         
         header("location: index.php");
         

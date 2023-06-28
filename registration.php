@@ -175,31 +175,31 @@ form .button input :hover{
                 </div> -->
                 <div class="input_pox">
                     <span class="datails">PRN No.</span>
-                    <input type="text" name="prn" placeholder="enter PRN No." required>
+                    <input type="text" name="prn" placeholder="enter PRN No.">
                 </div>
                 <div class="input_pox">
                     <span class="datails">College</span>
-                    <input type="text" name="college" placeholder="enter your college" required>
+                    <input type="text" name="college" placeholder="enter your college">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Year</span>
-                    <input type="text" name="year" placeholder="enter your year" required>
+                    <input type="text" name="year" placeholder="enter your year">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Branch</span>
-                    <input type="text" name="branch" placeholder="enter your branch" required>
+                    <input type="text" name="branch" placeholder="enter your branch">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Class</span>
-                    <input type="text" name="class" placeholder="enter your class" required>
+                    <input type="text" name="class" placeholder="enter your class">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Batch</span>
-                    <input type="text" name="batch" placeholder="enter your batch" required>
+                    <input type="text" name="batch" placeholder="enter your batch">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Roll No.</span>
-                    <input type="text" name="roll_no" placeholder="enter Roll No." required>
+                    <input type="text" name="roll_no" placeholder="enter Roll No.">
                 </div>
                 <div class="input_pox">
                     <span class="datails">Aadhar</span>
